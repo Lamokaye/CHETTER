@@ -1,0 +1,11 @@
+.conteneur {
+  display: flex;
+  flex-direction: column;
+}
+
+.boite {
+  background-color: lightblue;
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid darkblue;
+}
